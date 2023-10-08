@@ -1,0 +1,13 @@
+Database connectivity : (JDBC) : Steps :->
+
+1. Driver load
+2. DB connection
+3. Sending Statement
+4. DB sending Resultset
+5. Display
+6. close
+
+
+boolean = execute()
+ReadSet = executeQuery() - Fetch
+int = executeUpdate() - Update , Delete
